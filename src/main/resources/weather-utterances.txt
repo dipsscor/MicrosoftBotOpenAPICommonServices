@@ -1,0 +1,19 @@
+current weather
+current temperature
+weather today
+weather now
+current humidity
+humidity now
+humidity today
+weather condition
+weather outside
+temperature now
+temperature outside
+how is the weather
+how is the temperature
+is it hot
+is it cold
+is it sunny
+is it rainy
+rainy now
+what is the weather today
